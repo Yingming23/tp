@@ -134,6 +134,8 @@ The sections below give more details of each component.
 
 [Back to Top](#socompiler-developer-guide)
 
+<div style="page-break-after: always"></div>
+
 ### 2.2. UI component
 
 **API** : [`Ui.java`](https://github.com/se-edu/addressbook-level3/tree/master/src/main/java/seedu/address/ui/Ui.java)
